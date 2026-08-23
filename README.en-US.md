@@ -4,7 +4,7 @@
 
 **`Fullstack Developer / Tech Lead @ SENAI SP | Angular · React · Next.js · TypeScript`**
 
-[![Website](https://img.shields.io/badge/-zecki1.com.br-488207?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://zecki1.com.br)
+[![Website](https://img.shields.io/badge/-zecki1.com.br-488207?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.zecki1.com.br/home)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zecki1/)
 [![Email](https://img.shields.io/badge/-zecki1@hotmail.com-1155ba?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:zecki1@hotmail.com)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/zecki1)
@@ -21,7 +21,7 @@ I'm a Fullstack Developer and Tech Lead specialized in **Angular 15+ (recent ver
 
 Systems I develop and maintain as real products, integrated into my personal hub:
 
-### 📺 [Teleprompt B2B](https://teleprompt-pearl.vercel.app)
+### 📺 [Teleprompt B2B](https://www.zecki1.com.br/teleprompt)
 Script management system with company-isolated workspaces (multi-tenant), integrated with **Google Vertex AI** for automatic script correction with real-time visual feedback.
 `Next.js` `Vertex AI` `Tailwind CSS` `Firestore`
 
@@ -29,20 +29,11 @@ Script management system with company-isolated workspaces (multi-tenant), integr
 Productivity SaaS with task management and real-time metrics, interactive charts and authentication. Built in 3 versions — Angular 15 (grad program pilot), React and **Next.js with ISR** (final version).
 `Next.js` `React` `Angular` `Firebase` `Recharts` `Framer Motion`
 
-### 💼 [My Hub & Multi-Site CMS](https://zecki1.com.br)
+### 💼 [My Hub & Multi-Site CMS](https://www.zecki1.com.br/home)
 Central hub orchestrating my systems, with multi-site headless CMS: real-time editing, ISR and a design system shared across multiple institutional websites.
 `Next.js` `ISR` `TypeScript` `Firebase`
 
-<a href="https://github.com/zecki1/Teleprompt">
-  <img align="left" alt="Teleprompt" src="https://github-readme-stats.vercel.app/api/pin/?username=zecki1&repo=Teleprompt&theme=tokyonight" />
-</a>
-<a href="https://github.com/zecki1/dashboard-zecki">
-  <img align="left" alt="Zecki Dashboard" src="https://github-readme-stats.vercel.app/api/pin/?username=zecki1&repo=dashboard-zecki&theme=tokyonight" />
-</a>
-<a href="https://github.com/zecki1/site">
-  <img align="left" alt="Site" src="https://github-readme-stats.vercel.app/api/pin/?username=zecki1&repo=site&theme=tokyonight" />
-</a>
-<br clear="left" />
+**Repositories on GitHub:** [Teleprompt](https://github.com/zecki1/Teleprompt) · [Zecki Dashboard](https://github.com/zecki1/dashboard-zecki) · [Site/Hub](https://github.com/zecki1/site)
 
 Other projects: 🎨 [Cleriston Ribeiro Portfolio](https://cleriston-site.vercel.app) · 🖋️ [Nicolas Gomes Tattoo](https://nicolasgomestattoo.com.br)
 
