@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Fullstack / Tech Lead @ SENAI SP | Angular · React · Next.js · TypeScript`**
 
-[![Site](https://img.shields.io/badge/-zecki1.com.br-488207?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://zecki1.com.br)
+[![Site](https://img.shields.io/badge/-zecki1.com.br-488207?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.zecki1.com.br/home)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zecki1/)
 [![Email](https://img.shields.io/badge/-zecki1@hotmail.com-1155ba?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:zecki1@hotmail.com)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/zecki1)
@@ -21,7 +21,7 @@ Sou Desenvolvedor Fullstack e Tech Lead especialista em **Angular 15+ (versões 
 
 Sistemas que desenvolvo e mantenho como produtos reais, integrados ao meu hub pessoal:
 
-### 📺 [Teleprompt B2B](https://teleprompt-pearl.vercel.app)
+### 📺 [Teleprompt B2B](https://www.zecki1.com.br/teleprompt)
 Sistema de gestão de roteiros com workspaces isolados por empresa (multi-tenant), integrado ao **Google Vertex AI** para correção automática de roteiros com feedback visual em tempo real.
 `Next.js` `Vertex AI` `Tailwind CSS` `Firestore`
 
@@ -29,20 +29,11 @@ Sistema de gestão de roteiros com workspaces isolados por empresa (multi-tenant
 SaaS de produtividade com gerenciamento de tarefas e métricas em tempo real, gráficos interativos e autenticação. Desenvolvido em 3 versões — Angular 15 (piloto da pós-graduação), React e **Next.js com ISR** (versão final).
 `Next.js` `React` `Angular` `Firebase` `Recharts` `Framer Motion`
 
-### 💼 [Meu Hub & CMS Multi-Site](https://zecki1.com.br)
+### 💼 [Meu Hub & CMS Multi-Site](https://www.zecki1.com.br/home)
 Hub central que orquestra meus sistemas, com CMS headless multi-site: edição em tempo real, ISR e design system compartilhado entre múltiplos sites institucionais.
 `Next.js` `ISR` `TypeScript` `Firebase`
 
-<a href="https://github.com/zecki1/Teleprompt">
-  <img align="left" alt="Teleprompt" src="https://github-readme-stats.vercel.app/api/pin/?username=zecki1&repo=Teleprompt&theme=tokyonight&locale=pt-br" />
-</a>
-<a href="https://github.com/zecki1/dashboard-zecki">
-  <img align="left" alt="Dashboard Zecki" src="https://github-readme-stats.vercel.app/api/pin/?username=zecki1&repo=dashboard-zecki&theme=tokyonight&locale=pt-br" />
-</a>
-<a href="https://github.com/zecki1/site">
-  <img align="left" alt="Site" src="https://github-readme-stats.vercel.app/api/pin/?username=zecki1&repo=site&theme=tokyonight&locale=pt-br" />
-</a>
-<br clear="left" />
+**Repositórios no GitHub:** [Teleprompt](https://github.com/zecki1/Teleprompt) · [Zecki Dashboard](https://github.com/zecki1/dashboard-zecki) · [Site/Hub](https://github.com/zecki1/site)
 
 Outros projetos: 🎨 [Portfólio Cleriston Ribeiro](https://cleriston-site.vercel.app) · 🖋️ [Nicolas Gomes Tattoo](https://nicolasgomestattoo.com.br)
 
