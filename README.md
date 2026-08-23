@@ -99,7 +99,7 @@ Uso diário de **IA Autônoma (Claude/Anthropic)** para evoluir meu hub de siste
 <table>
   <tr>
     <td>
-      <img alt="GitHub Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=zecki1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+      <img alt="Perfil GitHub" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zecki1&theme=tokyonight" />
     </td>
     <td>
       <img alt="Streak" width="100%" src="https://streak-stats.demolab.com?user=zecki1&locale=pt-br&theme=tokyonight" />
@@ -107,8 +107,14 @@ Uso diário de **IA Autônoma (Claude/Anthropic)** para evoluir meu hub de siste
   </tr>
   <tr>
     <td colspan="2">
-      <img alt="Top Languages" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecki1&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas&langs_count=8" />
-      <img alt="Troféus" width="49%" src="https://github-profile-trophy.vercel.app/?username=zecki1&theme=tokyonight&no-frame=true&row=1&column=6" />
+      <img alt="Estatísticas" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zecki1&theme=tokyonight" />
+      <img alt="Linguagens mais usadas" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zecki1&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img alt="Commits por linguagem" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zecki1&theme=tokyonight" />
+      <img alt="Horários produtivos" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zecki1&theme=tokyonight&utcOffset=-3" />
     </td>
   </tr>
 </table>
